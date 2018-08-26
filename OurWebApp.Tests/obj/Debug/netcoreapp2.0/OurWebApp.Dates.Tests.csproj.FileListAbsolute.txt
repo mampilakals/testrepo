@@ -1,0 +1,16 @@
+C:\Code\AzureDeploy\vsts\OurWebApp.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Code\AzureDeploy\vsts\OurWebApp.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Code\AzureDeploy\vsts\OurWebApp.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Code\AzureDeploy\vsts\OurWebApp.Tests\bin\Debug\netcoreapp2.0\OurWebApp.Dates.Tests.deps.json
+C:\Code\AzureDeploy\vsts\OurWebApp.Tests\bin\Debug\netcoreapp2.0\OurWebApp.Dates.Tests.runtimeconfig.json
+C:\Code\AzureDeploy\vsts\OurWebApp.Tests\bin\Debug\netcoreapp2.0\OurWebApp.Dates.Tests.runtimeconfig.dev.json
+C:\Code\AzureDeploy\vsts\OurWebApp.Tests\bin\Debug\netcoreapp2.0\OurWebApp.Dates.Tests.dll
+C:\Code\AzureDeploy\vsts\OurWebApp.Tests\bin\Debug\netcoreapp2.0\OurWebApp.Dates.Tests.pdb
+C:\Code\AzureDeploy\vsts\OurWebApp.Tests\bin\Debug\netcoreapp2.0\OurWebApp.Dates.dll
+C:\Code\AzureDeploy\vsts\OurWebApp.Tests\bin\Debug\netcoreapp2.0\OurWebApp.Dates.pdb
+C:\Code\AzureDeploy\vsts\OurWebApp.Tests\obj\Debug\netcoreapp2.0\OurWebApp.Dates.Tests.csprojResolveAssemblyReference.cache
+C:\Code\AzureDeploy\vsts\OurWebApp.Tests\obj\Debug\netcoreapp2.0\OurWebApp.Dates.Tests.csproj.CoreCompileInputs.cache
+C:\Code\AzureDeploy\vsts\OurWebApp.Tests\obj\Debug\netcoreapp2.0\OurWebApp.Dates.Tests.AssemblyInfoInputs.cache
+C:\Code\AzureDeploy\vsts\OurWebApp.Tests\obj\Debug\netcoreapp2.0\OurWebApp.Dates.Tests.AssemblyInfo.cs
+C:\Code\AzureDeploy\vsts\OurWebApp.Tests\obj\Debug\netcoreapp2.0\OurWebApp.Dates.Tests.dll
+C:\Code\AzureDeploy\vsts\OurWebApp.Tests\obj\Debug\netcoreapp2.0\OurWebApp.Dates.Tests.pdb
